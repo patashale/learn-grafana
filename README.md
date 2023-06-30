@@ -25,6 +25,6 @@
 
 #### Logo:
 
-   Learn Grafana | Learn Grafana
-  :-------------------------:|:-------------------------:
+Learn Grafana `#EC6D13` | Learn Grafana `#EC6D13`
+:-------------------------:|:-------------------------:
 ![Learn Grafana Logo](https://github.com/patashale/learn-grafana/assets/68323012/65bddca7-5bd5-422f-9119-f8998e055924) | ![Learn Grafana Logo](https://github.com/patashale/learn-grafana/assets/68323012/65bddca7-5bd5-422f-9119-f8998e055924)
